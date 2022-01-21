@@ -24,13 +24,13 @@ monitor_port=/dev/cu.wchusbserial1421
 3. Biblioteca editada
 - https://github.com/BeelanMX/Beelan-LoRaWAN
 
-4. Defido a região que opera na frequencia do Brasil
+4. Definindo a região que opera na frequencia do Brasil
 - Config.h
 ```
 #define AU_915
 ```
 
-5. Defindo os tempos de RX1 e RX2 conforme as especificições da ATC
+5. Definindo os tempos de RX1 e RX2 conforme as especificições da ATC
 - LoRaMAC.cpp
 ```
 static const unsigned int Receive_Delay_1 = 5000;
