@@ -32,7 +32,7 @@ static const unsigned int Receive_Delay_1 = 5000;
 static const unsigned int Receive_Delay_2 = 6000;
 
 Exemplo de Downlink:
-![alt text](https://github.com/geovaneferreira/lorawan-atc/downlink-ok.png)
+![alt text](https://github.com/geovaneferreira/lorawan-atc/downlink.png)
 
 
 Exemplo das configurações:
